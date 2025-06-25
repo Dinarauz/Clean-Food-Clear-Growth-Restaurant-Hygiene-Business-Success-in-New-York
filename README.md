@@ -1,4 +1,15 @@
 # Clean-Food-Clear-Growth-Restaurant-Hygiene-Business-Success-in-New-York
 ![1*Fy5s0ixzI9Duo1LbnjvctA](https://github.com/user-attachments/assets/81581bc6-293a-4832-96c7-0d92a7cf8b19)
 
+**Key Objective:**
+This project will explore how restaurant inspection scores and health grades relate to long-term business survival in the New York. I will be anlyzing whether sanitation outcomes are predictive of operational longevity.
 
+**Goal:**
+To analyze the relationshop between restaurant inspection scores/grades and their survival in NY competitive food landscape.
+
+**Dataset:**
+NYC Open Data: (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data)
+
+**Key Questions:**
+1. Do restaurants with Grade A stay active longer than Grades B or C?
+2. 
