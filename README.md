@@ -12,4 +12,16 @@ NYC Open Data: (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaur
 
 **Key Questions:**
 1. Do restaurants with Grade A stay active longer than Grades B or C?
-2. 
+2. Are some cuisines more prone to poor grades or shorter lifespans?
+3. How does restaurant lifespan differ across boroughs?
+4. Can health grades or inspection scores predict early restaurant closures?
+
+**Tools Used:**
+1. Python: pandas, seaborn, matplotlib, lifelines
+2. Statistical testing: T-test, Chi-square, ANOVA
+3. Survival Analysis: Kaplan - Meier curves
+4. Visualization: Box/violin plots, heatmaps, line charts
+5. Power BI:
+
+**Key Findings:**
+
