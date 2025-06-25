@@ -1,0 +1,51 @@
+cuisine_description,borough,avg_score
+American,Bronx,12.058064516129033
+Chinese,Bronx,13.4875
+Coffee/Tea,Bronx,12.518072289156626
+Pizza,Bronx,13.578313253012048
+Mexican,Bronx,14.127659574468083
+Japanese,Bronx,15.714285714285714
+Italian,Bronx,14.428571428571429
+Latin American,Bronx,15.785714285714286
+Bakery Products/Desserts,Bronx,12.505882352941176
+Caribbean,Bronx,16.81081081081081
+American,Brooklyn,13.429832303618712
+Chinese,Brooklyn,14.07197549770291
+Coffee/Tea,Brooklyn,11.842560553633218
+Pizza,Brooklyn,13.285371702637889
+Mexican,Brooklyn,14.469055374592834
+Japanese,Brooklyn,13.493562231759658
+Italian,Brooklyn,11.86413043478261
+Latin American,Brooklyn,15.83783783783784
+Bakery Products/Desserts,Brooklyn,12.695852534562212
+Caribbean,Brooklyn,16.530898876404493
+American,Manhattan,12.334779179810726
+Chinese,Manhattan,16.8714859437751
+Coffee/Tea,Manhattan,11.346938775510203
+Pizza,Manhattan,14.414686825053996
+Mexican,Manhattan,13.382252559726965
+Japanese,Manhattan,14.420542635658917
+Italian,Manhattan,13.731497418244404
+Latin American,Manhattan,15.505376344086022
+Bakery Products/Desserts,Manhattan,12.31833910034602
+Caribbean,Manhattan,17.18867924528302
+American,Queens,12.91584699453552
+Chinese,Queens,16.793628808864266
+Coffee/Tea,Queens,12.38138138138138
+Pizza,Queens,13.744186046511627
+Mexican,Queens,14.532520325203253
+Japanese,Queens,14.152631578947368
+Italian,Queens,14.387387387387388
+Latin American,Queens,17.75
+Bakery Products/Desserts,Queens,14.469924812030076
+Caribbean,Queens,16.51101321585903
+American,Staten Island,13.134969325153374
+Chinese,Staten Island,14.966666666666669
+Coffee/Tea,Staten Island,12.651162790697674
+Pizza,Staten Island,13.891891891891891
+Mexican,Staten Island,16.20689655172414
+Japanese,Staten Island,15.46808510638298
+Italian,Staten Island,14.782051282051285
+Latin American,Staten Island,14.0
+Bakery Products/Desserts,Staten Island,9.633333333333333
+Caribbean,Staten Island,9.5
