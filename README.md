@@ -1,4 +1,2 @@
 # Clean-Food-Clear-Growth-Restaurant-Hygiene-Business-Success-in-New-York
-![Untitled design-2](https://github.com/user-attachments/assets/9728eb9d-4977-4406-a85f-46161e786dbb)
-
-
+![1*Fy5s0ixzI9Duo1LbnjvctA](https://github.com/user-attachments/assets/81581bc6-293a-4832-96c7-0d92a7cf8b19)
