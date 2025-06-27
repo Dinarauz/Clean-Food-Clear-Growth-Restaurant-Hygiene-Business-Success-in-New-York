@@ -25,7 +25,7 @@ NYC Open Data: (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaur
    
 **Key Findings:**
 1. Approximately over 69% of restaurants earned a Grade A, while 22% received a B and just 5% a C. That tells me the majority of places citywide are following health and safety guidelines.
-2. The median lifespan for NYC restaurants sits between 720–750 days — about two years. Interestingly, A-graded spots stick around longer than lower-graded or ungraded places like those marked “N.” However, there's discrepency .....
+2. The median lifespan for NYC restaurants sits between 720–750 days — about two years. Interestingly, A-graded spots stick around longer than lower-graded or ungraded places like those marked “N.” However, during my hypothesis testing violin plot showed that assymption of Grade A restaurant surive significantly better is not supported. In fact data showed that Grade B and C follow comparable patterns which suggesting that final inspection grade may not be reliable predictor of business longevity. 
 3. When looking at average inspection scores by borough, things were mostly consistent. That said, Manhattan being at top out the others, followed closely by Brooklyn and Queens.
 4. Inspections were steadily increasing from 2015 until a sharp dip in 2020 (pandemic). Since 2021, activity has picked back up, which is a good sign for the restaurant industry overall.
 5. I looked into whether certain cuisines get flagged more often — and it turns out Bangladeshi, African, Egyptian, and Filipino restaurants had higher average inspection scores (aka more violations).
