@@ -34,7 +34,8 @@ NYC Open Data: (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaur
 8. Some cuisines fared worse in certain boroughs. For example, Chinese and Caribbean restaurants struggled more in Manhattan; Latin American spots had issues in Queens. Staten Island inspections were tougher on Mexican food, and in the Bronx, Caribbean, Latin American, and Japanese cuisines saw more violations. Brooklyn’s trends mirrored that too, especially for Caribbean and Latin American spots. Whether it’s heavier inspection or actual compliance issues, the borough and cuisine type clearly play a role.
    
 **Power BI Dashboard:**
-https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/a1e10bb07522024106aa?experience=power-bi
+1. https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/a1e10bb07522024106aa?experience=power-bi
+2. https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/fee15fb8eedde614ea95?experience=power-bi
 
 
 
