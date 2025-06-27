@@ -24,12 +24,15 @@ NYC Open Data: (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaur
 5. Power BI: Dashboard
    
 **Key Findings:**
-1. Over 69% of NY Restaurants received a Grade A, with Grade B 22% and 5% Grade C. This indicates that a lot of restaurants follow the compliance citywide such as inspection and health guidelines.
-2. However Median Lifespan is shorter side we can see from KPI that 720 days meaning 2 years being active. The data shows that Grade A restaurants have longer survival distribution than lower graded restaurants.
-3. Ispection scores vary by borough such as average inspection scores are generallly consistent by boroughs, though Manhattan performed better than other boroughs.
-4. The trendline shows that inspection has increased over time during 2021 we do see deep dive due to Pandemic but has slight increases in recent years.
-5. 
-
+1. Approximately over 69% of restaurants earned a Grade A, while 22% received a B and just 5% a C. That tells me the majority of places citywide are following health and safety guidelines.
+2. The median lifespan for NYC restaurants sits between 720–750 days — about two years. Interestingly, A-graded spots stick around longer than lower-graded or ungraded places like those marked “N.” However, there's discrepency .....
+3. When looking at average inspection scores by borough, things were mostly consistent. That said, Manhattan being at top out the others, followed closely by Brooklyn and Queens.
+4. Inspections were steadily increasing from 2015 until a sharp dip in 2020 (pandemic). Since 2021, activity has picked back up, which is a good sign for the restaurant industry overall.
+5. I looked into whether certain cuisines get flagged more often — and it turns out Bangladeshi, African, Egyptian, and Filipino restaurants had higher average inspection scores (aka more violations).
+6. American and Chinese cuisines make up the largest share of restaurants, but Chinese spots were more likely to get lower grades compared to American ones.
+7. American restaurants and bakeries had the highest rate of A grades, while Caribbean, Latin American, Chinese, and Mexican spots saw more B’s and C’s.
+8. Some cuisines fared worse in certain boroughs. For example, Chinese and Caribbean restaurants struggled more in Manhattan; Latin American spots had issues in Queens. Staten Island inspections were tougher on Mexican food, and in the Bronx, Caribbean, Latin American, and Japanese cuisines saw more violations. Brooklyn’s trends mirrored that too, especially for Caribbean and Latin American spots. Whether it’s heavier inspection or actual compliance issues, the borough and cuisine type clearly play a role.
+   
 **Power BI Dashboard:**
 https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/a1e10bb07522024106aa?experience=power-bi
 
