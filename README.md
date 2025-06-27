@@ -29,8 +29,5 @@ NYC Open Data: (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaur
 **Power BI Dashboard:**
 https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/a1e10bb07522024106aa?experience=power-bi
 
-pdf format
-1. [Page 2 - Restaurant project dashboard - Power BI.pdf](https://github.com/user-attachments/files/20954330/Page.2.-.Restaurant.project.dashboard.-.Power.BI.pdf)
-2. [Page 3 - Restaurant project dashboard - Power BI.pdf](https://github.com/user-attachments/files/20954332/Page.3.-.Restaurant.project.dashboard.-.Power.BI.pdf)
 
 
