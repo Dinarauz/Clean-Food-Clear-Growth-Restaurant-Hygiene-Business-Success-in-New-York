@@ -21,10 +21,14 @@ NYC Open Data: (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaur
 2. Statistical testing: T-test, Chi-square, ANOVA
 3. Survival Analysis: Kaplan - Meier curves
 4. Visualization: Box/violin plots, heatmaps, line charts
-5. Power BI:
-
+5. Power BI: Dashboard
+   
 **Key Findings:**
-
+1. Over 69% of NY Restaurants received a Grade A, with Grade B 22% and 5% Grade C. This indicates that a lot of restaurants follow the compliance citywide such as inspection and health guidelines.
+2. However Median Lifespan is shorter side we can see from KPI that 720 days meaning 2 years being active. The data shows that Grade A restaurants have longer survival distribution than lower graded restaurants.
+3. Ispection scores vary by borough such as average inspection scores are generallly consistent by boroughs, though Manhattan performed better than other boroughs.
+4. The trendline shows that inspection has increased over time during 2021 we do see deep dive due to Pandemic but has slight increases in recent years.
+5. 
 
 **Power BI Dashboard:**
 https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/a1e10bb07522024106aa?experience=power-bi
