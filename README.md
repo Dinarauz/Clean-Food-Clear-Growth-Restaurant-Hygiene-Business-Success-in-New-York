@@ -1,16 +1,27 @@
 # Clean Food, Clear Growth: Restaurant Hygiene & Business Success in New York - Food Service & Hospitality | Public Health Analysis
 ![1*Fy5s0ixzI9Duo1LbnjvctA](https://github.com/user-attachments/assets/81581bc6-293a-4832-96c7-0d92a7cf8b19)
 
-**Executive Summary:**
+## Executive Summary:
 This project analyzes 10+ years of NYC restaurant inspection data to determine whether health grades predict business longevity. Using survival analysis and statistical testing on 27,000+ restaurants, the analysis reveals that Grade A establishments show longer operational lifespans, but grade alone is not a reliable predictor of closure. Borough location and cuisine type emerge as stronger indicators of both health compliance and business survival, with Manhattan restaurants scoring highest on inspections while certain ethnic cuisines face disproportionate violation rates across different boroughs.
 
-**Business Impact:** Provides actionable insights for restaurant investors, health departments, and entrepreneurs on risk factors affecting restaurant survival beyond just food safety scores.
+## Business Problem:
+**Challenge:** New York City has one of the most competitive restaurant markets in the world, with thousands of establishments opening and closing annually. Entrepreneurs, investors, and health officials need to understand whether health inspection performance is a meaningful indicator of long-term business viability.
 
-**Goal:**
-To analyze the relationshop between restaurant inspection scores/grades and their survival in NY competitive food landscape.
+**Stakeholder Questions:**
+• Should investors prioritize Grade A restaurants when evaluating acquisition opportunities?
+• Do certain cuisines or locations face systemic compliance challenges?
+• How can health departments allocate resources to support struggling restaurant segments?
+• What factors beyond sanitation predict restaurant longevity?
+
+**Why This Matters:** Understanding the relationship between health compliance and business survival helps reduce investment risk, improve public health outcomes, and support sustainable restaurant operations in NYC's $5 billion+ restaurant industry.
+
+## Solution & Methodology
 
 **Dataset:**
 NYC Open Data: (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data)
+• 27,000+ restaurants tracked across 5 boroughs
+• 10+ years of inspection records (2015-2025)
+• Health grades, violation codes, inspection scores, and operational status
 
 **Key Questions:**
 1. Do restaurants with Grade A stay active longer than Grades B or C?
