@@ -35,8 +35,9 @@ NYC Open Data: (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaur
    
 **Power BI Dashboard:**
 1. https://github.com/Dinarauz/Clean-Food-Clear-Growth-Restaurant-Hygiene-Business-Success-in-New-York/blob/main/visuals/Power%20BI%20Dashboard%201.pdf
-(Link is private for a live dashboard please send me an email: https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/a1e10bb07522024106aa?experience=power-bi)
-3. https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/fee15fb8eedde614ea95?experience=power-bi
+(For a live dashboard please send me an email: https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/a1e10bb07522024106aa?experience=power-bi)
+2. https://github.com/Dinarauz/Clean-Food-Clear-Growth-Restaurant-Hygiene-Business-Success-in-New-York/blob/main/visuals/Page%203%20-%20Restaurant%20project%20dashboard%20-%20Power%20BI.pdf
+(For a live dashboard please send me email: https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/fee15fb8eedde614ea95?experience=power-bi)
 
 
 
