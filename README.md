@@ -1,8 +1,10 @@
-# Clean-Food-Clear-Growth-Restaurant-Hygiene-Business-Success-in-New-York
+# Clean Food, Clear Growth: Restaurant Hygiene & Business Success in New York - Food Service & Hospitality | Public Health Analysis
 ![1*Fy5s0ixzI9Duo1LbnjvctA](https://github.com/user-attachments/assets/81581bc6-293a-4832-96c7-0d92a7cf8b19)
 
-**Key Objective:**
-This project will explore how restaurant inspection scores and health grades relate to long-term business survival in the New York. I will be anlyzing whether sanitation outcomes are predictive of operational longevity.
+**Executive Summary:**
+This project analyzes 10+ years of NYC restaurant inspection data to determine whether health grades predict business longevity. Using survival analysis and statistical testing on 27,000+ restaurants, the analysis reveals that Grade A establishments show longer operational lifespans, but grade alone is not a reliable predictor of closure. Borough location and cuisine type emerge as stronger indicators of both health compliance and business survival, with Manhattan restaurants scoring highest on inspections while certain ethnic cuisines face disproportionate violation rates across different boroughs.
+
+**Business Impact:** Provides actionable insights for restaurant investors, health departments, and entrepreneurs on risk factors affecting restaurant survival beyond just food safety scores.
 
 **Goal:**
 To analyze the relationshop between restaurant inspection scores/grades and their survival in NY competitive food landscape.
