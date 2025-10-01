@@ -63,7 +63,13 @@ American cuisine shows strongest compliance track record across all boroughs
 (For a live dashboard please send me email: https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/fee15fb8eedde614ea95?experience=power-bi)
 
 ## Impact Metrics
-MetricValueRestaurants Analyzed27,000+Time Period10+ yearsGrade A Rate69%Median Lifespan~2 yearsBorough CoverageAll 5 NYC boroughs
+Metric                      Value
+Restaurants Analyzed        27,000+
+Time Period                 10+ years
+Grade                       A 
+Rate                        69%
+Median Lifespan             ~2 years
+Borough Coverage            All 5 NYC boroughs
 
 
 
