@@ -84,4 +84,5 @@ Predictive ML model for closure risk
 Integration with economic data (rent, income by zip code)
 Multi-city comparison for benchmarking
 
-
+Technologies: Python | Statistical Analysis | Survival Analysis | Power BI | Predictive Modeling
+Data updated through 2025 | NYC Open Data Platform
