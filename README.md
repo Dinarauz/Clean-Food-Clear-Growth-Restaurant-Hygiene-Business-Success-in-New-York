@@ -1,4 +1,6 @@
-# Clean Food, Clear Growth: Restaurant Hygiene & Business Success in New York - Food Service & Hospitality | Public Health Analysis
+# Clean Food, Clear Growth: Restaurant Hygiene & Business Success in New York
+**Industry:** Food Service & Hospitality | Public Health Analysis
+**Analysis Type:** Predictive Analytics & Survival Analysis
 ![1*Fy5s0ixzI9Duo1LbnjvctA](https://github.com/user-attachments/assets/81581bc6-293a-4832-96c7-0d92a7cf8b19)
 
 ## Executive Summary:
