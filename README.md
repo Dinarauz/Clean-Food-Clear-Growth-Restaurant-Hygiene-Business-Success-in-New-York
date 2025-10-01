@@ -2,10 +2,13 @@
 ![1*Fy5s0ixzI9Duo1LbnjvctA](https://github.com/user-attachments/assets/81581bc6-293a-4832-96c7-0d92a7cf8b19)
 
 ## Executive Summary:
-This project analyzes 10+ years of NYC restaurant inspection data to determine whether health grades predict business longevity. Using survival analysis and statistical testing on 27,000+ restaurants, the analysis reveals that Grade A establishments show longer operational lifespans, but grade alone is not a reliable predictor of closure. Borough location and cuisine type emerge as stronger indicators of both health compliance and business survival, with Manhattan restaurants scoring highest on inspections while certain ethnic cuisines face disproportionate violation rates across different boroughs.
+This project analyzes 10+ years of NYC restaurant inspection data (27,000+ establishments) to determine whether health grades predict business longevity. Using survival analysis and statistical testing, the analysis reveals that borough location and cuisine type are stronger predictors of restaurant survival than health grades alone. Manhattan restaurants score highest on inspections while certain ethnic cuisines face disproportionate violation rates.
+
+## Business Impact:
+Provides actionable insights for restaurant investors, health departments, and entrepreneurs on risk factors affecting restaurant survival beyond food safety scores.
 
 ## Business Problem:
-**Challenge:** New York City has one of the most competitive restaurant markets in the world, with thousands of establishments opening and closing annually. Entrepreneurs, investors, and health officials need to understand whether health inspection performance is a meaningful indicator of long-term business viability.
+NYC has one of the most competitive restaurant markets globally. Entrepreneurs, investors, and health officials need to understand whether health inspection performance meaningfully indicates long-term business viability.
 
 **Stakeholder Questions:**
 • Should investors prioritize Grade A restaurants when evaluating acquisition opportunities?
