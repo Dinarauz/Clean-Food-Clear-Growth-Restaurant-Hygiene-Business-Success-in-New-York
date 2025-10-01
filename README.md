@@ -19,7 +19,7 @@ NYC has one of the most competitive restaurant markets globally. Entrepreneurs, 
 
 **Dataset:**
 **NYC Open Data:** (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data)
-**Analysis Code:**
+**Analysis Code:** https://github.com/Dinarauz/Clean-Food-Clear-Growth-Restaurant-Hygiene-Business-Success-in-New-York/blob/main/Restaurant_Project.ipynb
 
 ## Technical Approach:
    • **Data Pipeline:** Python (pandas) for API extraction, cleaning, and feature engineering
