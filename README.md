@@ -60,8 +60,12 @@ Statistical testing showed no significant survival advantage for Grade A vs B/C 
 (For a live dashboard please send me email: https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/fee15fb8eedde614ea95?experience=power-bi)
 
 ## Impact Metrics
-      | Metric | Value |
-      | :Restaurant Analyzed:| :27,000+: |
+| Metric| Value |
+| :--- | :---: | 
+| Restaurants Analyzed | 27,000+ | 
+| Time Period | 10+ years |
+| Charlie | 35 | Paris |
+
 Restaurants Analyzed        27,000+
 Time Period                 10+ years
 Grade                       A 
