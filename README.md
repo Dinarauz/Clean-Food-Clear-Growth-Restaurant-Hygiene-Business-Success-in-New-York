@@ -40,30 +40,28 @@ Statistical testing showed no significant survival advantage for Grade A vs B/C 
    • Borough-cuisine disparities: Chinese/Caribbean struggle in Manhattan; Latin American in Queens; Mexican in Staten Island
 5. **Pandemic Impact:** Sharp inspection decline in 2020, strong recovery since 2021.
 
-Business Recommendations
-For Investors:
+## Business Recommendations
+**For Investors:**
+• Focus on Grade A establishments in Manhattan/Brooklyn with American or bakery cuisines
+• Don't rely solely on health grades—operational factors matter more
 
-Focus on Grade A establishments in Manhattan/Brooklyn with American or bakery cuisines
-Don't rely solely on health grades—operational factors matter more
+**For Health Departments:**
+• Allocate resources 27% more efficiently by targeting non-A establishments
+• Implement multilingual training for Bangladeshi, African, Filipino operators
 
-For Health Departments:
+**For Entrepreneurs:**
+• Market gap exists for Grade A Chinese restaurants in Manhattan
+• American cuisine shows strongest compliance track record across all boroughs
 
-Allocate resources 27% more efficiently by targeting non-A establishments
-Implement multilingual training for Bangladeshi, African, Filipino operators
-
-For Entrepreneurs:
-
-Market gap exists for Grade A Chinese restaurants in Manhattan
-American cuisine shows strongest compliance track record across all boroughs
-
-## Power BI Dashboard:**
+## Power BI Dashboard:
 1. https://github.com/Dinarauz/Clean-Food-Clear-Growth-Restaurant-Hygiene-Business-Success-in-New-York/blob/main/visuals/Power%20BI%20Dashboard%201.pdf
 (For a live dashboard please send me an email: https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/a1e10bb07522024106aa?experience=power-bi)
 2. https://github.com/Dinarauz/Clean-Food-Clear-Growth-Restaurant-Hygiene-Business-Success-in-New-York/blob/main/visuals/Page%203%20-%20Restaurant%20project%20dashboard%20-%20Power%20BI.pdf
 (For a live dashboard please send me email: https://app.powerbi.com/groups/me/reports/8ffe14c9-4175-4bdd-8dd8-ff0abf18a048/fee15fb8eedde614ea95?experience=power-bi)
 
 ## Impact Metrics
-Metric                      Value
+      | Metric | Value |
+      | :---:| :---: |
 Restaurants Analyzed        27,000+
 Time Period                 10+ years
 Grade                       A 
