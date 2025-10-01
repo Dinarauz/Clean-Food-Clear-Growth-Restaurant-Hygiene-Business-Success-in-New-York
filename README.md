@@ -61,7 +61,7 @@ Statistical testing showed no significant survival advantage for Grade A vs B/C 
 
 ## Impact Metrics
       | Metric | Value |
-      | :---:| :---: |
+      | :Restaurant Analyzed:| :27,000+: |
 Restaurants Analyzed        27,000+
 Time Period                 10+ years
 Grade                       A 
