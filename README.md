@@ -64,27 +64,20 @@ Statistical testing showed no significant survival advantage for Grade A vs B/C 
 | :--- | :---: | 
 | Restaurants Analyzed | 27,000+ | 
 | Time Period | 10+ years |
-| Charlie | 35 | Paris |
+| Grade A Rate | 69% | 
+| Median Lifespan | ~2 years |
+| Borough Coverage | All 5 NYC boroughs | 
 
-Restaurants Analyzed        27,000+
-Time Period                 10+ years
-Grade                       A 
-Rate                        69%
-Median Lifespan             ~2 years
-Borough Coverage            All 5 NYC boroughs
+## Limitations & Next Steps
+**Current Limitations:**
+   • Survivorship bias in dataset
+   • No data on rent, foot traffic, or ownership changes
+   • COVID-19 inspection gap (2020-2021)
 
-Limitations & Next Steps
-Current Limitations:
+**Future Enhancements:**
+   • Predictive ML model for closure risk
+   • Integration with economic data (rent, income by zip code)
+   • Multi-city comparison for benchmarking
 
-Survivorship bias in dataset
-No data on rent, foot traffic, or ownership changes
-COVID-19 inspection gap (2020-2021)
-
-Future Enhancements:
-
-Predictive ML model for closure risk
-Integration with economic data (rent, income by zip code)
-Multi-city comparison for benchmarking
-
-Technologies: Python | Statistical Analysis | Survival Analysis | Power BI | Predictive Modeling
+**Technologies:** Python | Statistical Analysis | Survival Analysis | Power BI | Predictive Modeling
 Data updated through 2025 | NYC Open Data Platform
